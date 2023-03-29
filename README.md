@@ -14,4 +14,4 @@ Analyzed the World University Ratings dataset to perform an analysis & visualiza
 
 * Data Source:[Kaggle](https://www.kaggle.com)
 * Used SQL to perform data cleaning & analysis tasks.
-* Used Tableau to perform visualization.(https://public.tableau.com/app/profile/nantitha/viz/WorldUniversityRankings_16800384210130/Dashboard1)
+* Used Tableau to perform visualization.[Tableau-World University Rankings](https://public.tableau.com/app/profile/nantitha/viz/WorldUniversityRankings_16800384210130/Dashboard1)
